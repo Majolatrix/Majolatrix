@@ -3,6 +3,7 @@
 
 🌱 I’m currently learning: Data Sciencie with R & Python and BI Tools like Power BI / Tableau <br>
 📫 How to reach me: mariajosecancinos@gmail.com <br>
+🔗 Linkedin: https://www.linkedin.com/in/mariajosecancinos/ <br>
 ⚡ Hobbies: I like to make dioramas and play videogames <br>
 💜 I love art <br>
 
